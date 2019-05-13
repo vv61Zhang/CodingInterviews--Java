@@ -2,8 +2,8 @@
 ## 《剑指offer》全部面试题的`Java`实现
 
 
-|题号|类型|题目|答案|
-|---|---|---|---|
+|题号|类型|题目|答案|Note|
+|---|---|---|---|---|
 |3|数组|数组中重复的数字|[TBA|
 |4|数组|二维数组中的查找字|[04_FindIntegerIn2dArray](https://github.com/vv61Zhang/JianZhiOffer--Java/blob/master/src/04_FindIntegerIn2dArray.java)|
 |5|字符串|替换空格|TBA|
