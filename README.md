@@ -4,7 +4,8 @@
 
 |题号|类型|题目|答案|Note|
 |---|---|---|---|---|
-|3|数组|数组中重复的数字|[TBA|
+|3a|数组|数组中重复的数字|[[03a_findDuplicatedNumber](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/03a_findDuplicatedNumber.java)|
+|3b|数组|不修改数组找出重复的数字|[[03b_findDuplicatedNumber](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/03_findDuplicatedNumber.java)|
 |4|数组|二维数组中的查找字|[04_FindIntegerIn2dArray](https://github.com/vv61Zhang/JianZhiOffer--Java/blob/master/src/04_FindIntegerIn2dArray.java)|
 |5|字符串|替换空格|TBA|
 |6|链表|从尾到头打印链表|TBA|
