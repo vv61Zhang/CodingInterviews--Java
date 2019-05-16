@@ -1,5 +1,5 @@
 public class solutions {
-    public boolean findDuplicatedArray(int[] arr, int length, int duplication) {
+    public boolean findDuplicatedNumber(int[] arr, int length, int duplication) {
     	if(arr == null || length <=0) return false;
     	int start = 1;
     	int end =length -1;
