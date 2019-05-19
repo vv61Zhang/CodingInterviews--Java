@@ -19,4 +19,16 @@ public class Solution {
 }
 
 //Solution2: Recursion
-
+import java.util.ArrayList;
+public class Solution {
+    //DON'T create the output variable inside the recursion function!!
+    ArrayList<Integer> ans = new ArrayList<Integer>();
+    public ArrayList<Integer> printListFromTailToHead(ListNode listNode){
+        
+        if (listNode!=null){
+            printListFromTailToHead(listNode.next);
+            ans.add(listNode.val);
+        }
+        return ans;
+    }
+}
