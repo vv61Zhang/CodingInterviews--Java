@@ -8,7 +8,7 @@
 |3b|数组|不修改数组找出重复的数字|[03b_findDuplicatedNumber](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/03b_findDuplicatedNumber.java)|
 |4|数组|二维数组中的查找字|[04_FindIntegerIn2dArray](https://github.com/vv61Zhang/JianZhiOffer--Java/blob/master/src/04_FindIntegerIn2dArray.java)|
 |5|字符串|替换空格|TBA|
-|6|链表|从尾到头打印链表|TBA|
+|6|链表|从尾到头打印链表|[06_printListFromTailToHead](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/06_printListFromTailToHead)|Stack/Recursion|
 |7|树|重建二叉树|TBA|
 |8|树|二叉树的下一个节点|TBA|
 |9|栈和队列|用两个栈实现队列|TBA|
