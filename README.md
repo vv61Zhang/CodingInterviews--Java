@@ -9,7 +9,7 @@
 |4|数组|二维数组中的查找字|[04_FindIntegerIn2dArray](https://github.com/vv61Zhang/JianZhiOffer--Java/blob/master/src/04_FindIntegerIn2dArray.java)|
 |5|字符串|替换空格|[05_replaceSpace](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/05_replaceSpace)|
 |6|链表|从尾到头打印链表|[06_printListFromTailToHead](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/06_printListFromTailToHead)|Stack/Recursion|
-|7|树|重建二叉树|TBA|
+|7|树|重建二叉树|[07_reConstructBinaryTree](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/07_reConstructBinaryTree.java)|
 |8|树|二叉树的下一个节点|TBA|
 |9|栈和队列|用两个栈实现队列|TBA|
 |10|递归和循环|斐波那契数列|TBA|
