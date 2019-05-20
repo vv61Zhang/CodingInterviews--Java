@@ -1,11 +1,21 @@
+//replace,do not create a new string
+//str.replace(int start,int end,'%20') 
+
+
+
+//from tail to head;
 public class Solutions {
     public String replaceSpace(StringBuffer str) {
     	int length =str.length();
 		if(str == null || length ==0) return str.toString();
 		int newlength = length;
+		
+	        // one space found,str length will increase by 2
 		for(int i=0;i<length;i++) {
 			if(str.charAt(i)==' ')  newlength += 2;
 		}
+		
+		//use two pointer 
 		str .setLength(newlength);
 		int indexnew =newlength -1;
 		for(int i=length-1;i>=0 && i<indexnew ;i--)	{
