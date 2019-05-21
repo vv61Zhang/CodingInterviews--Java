@@ -14,6 +14,8 @@
 |9|栈和队列|用两个栈实现队列|[09_](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/09_.java)|
 |10|递归和循环|斐波那契数列|[10_Fibonacci](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/10_Fibonacci.java)|
 |11|查找和排序|旋转数组的最小数字|[11_minNumberInRotateArray](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/11_minNumberInRotateArray.java)|
+|10b|递归和循环|青蛙跳台阶|[10b_JumpFloor](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/10b_JumpFloor.java)|
+|10c|递归和循环|青蛙跳台阶II|[10c_JumpFloorII](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/10c_JumpFloorII.java)|
 |12|回溯法|矩阵中的路径|TBA|
 |13|回溯法|机器人的运动范围|TBA|
 |14|数组|剪绳子|TBA|
