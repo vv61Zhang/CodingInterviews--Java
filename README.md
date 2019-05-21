@@ -12,8 +12,8 @@
 |7|树|重建二叉树|[07_reConstructBinaryTree](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/07_reConstructBinaryTree.java)|
 |8|树|二叉树的下一个节点|[08_GetNext](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/08_GetNext.java)|
 |9|栈和队列|用两个栈实现队列|[09_](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/09_.java)|
-|10|递归和循环|斐波那契数列|TBA|
-|11|查找和排序|旋转数组的最小数字|TBA|
+|10|递归和循环|斐波那契数列|[10_Fibonacci](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/10_Fibonacci.java)|
+|11|查找和排序|旋转数组的最小数字|[11_minNumberInRotateArray](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/11_minNumberInRotateArray.java)|
 |12|回溯法|矩阵中的路径|TBA|
 |13|回溯法|机器人的运动范围|TBA|
 |14|数组|剪绳子|TBA|
