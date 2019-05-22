@@ -18,11 +18,12 @@
 |11|查找和排序|旋转数组的最小数字|[11_minNumberInRotateArray](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/11_minNumberInRotateArray.java)|
 |12|回溯法|矩阵中的路径|[12_hasPath](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/12_hasPath.java)|
 |13|回溯法|机器人的运动范围|[13_MovingCount](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/13_MovingCount.java)|
-|14|动态规划与贪婪算法|剪绳子|TBA|
-|15|位运算|二进制中1的个数|TBA|
-|16|数组|数值的整数次方|TBA|
+|14|动态规划与贪婪算法|剪绳子|[14_maxProductAfterCutting](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/14_maxProductAfterCutting.java)|
+|15|位运算|二进制中1的个数|[15_NumberOf1](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/15_NumberOf1.java)|
+|16|数组|数值的整数次方|[16_Power](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/16_Power.java)|
 |17|数组|打印从1到最大的n位数|TBA|
-|18|数组|删除链表的节点|TBA|
+|18a|数组|删除链表的节点|[18a_deleteNode](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/18a_deleteNode.java)|
+|18b|链表|删除链表中重复的节点|TBA|
 |19|数组|正则表达式匹配|TBA|
 |20|数组|表示数值的字符串|TBA|
 |21|数组|调整数组顺序使奇数位于偶数前面|TBA|
