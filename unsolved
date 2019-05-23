@@ -1,0 +1,94 @@
+//题目：旋转数组的最小数字
+
+//运行超时:您的程序未能在规定时间内运行结束，请检查是否循环有错或算法复杂度过大。
+import java.util.ArrayList;
+public class Solution {
+    public int minNumberInRotateArray(int [] array) {
+        if(array==null || array.length == 0) return 0;
+        int p1 = 0;
+        int p2 =array.length -1;
+        int mid = (p2+p1)/2;
+        if(array[p1]==array[p2] && array[p1]==array[mid]){
+            int ans = array[p1];
+            for(int i =p1;i<=p2;i++){
+                if(array[i]<ans) ans = array[i];
+            }
+            return ans;
+        }
+        if(array[0]<array[p2]) return array[0];
+        while(p2 != (p1+1)){
+            mid = (p2+p1)/2;
+            if(array[p1]<array[mid]) p1=mid;
+            else if(array[mid]<array[p2]) p2=mid;
+        }
+        return array[p2];
+    }
+}
+
+
+//题目：删除链表中重复的节点：
+////运行超时:您的程序未能在规定时间内运行结束，请检查是否循环有错或算法复杂度过大。
+
+public class Solution {
+    public ListNode deleteDuplication(ListNode pHead){
+        if(pHead == null || pHead.next ==null) return pHead;
+
+        ListNode pre = pHead ;
+        pre.next  =pHead;
+        ListNode ans =pre;
+        while (pHead.next != null){
+            if(pHead.next.val ==pHead.val){
+                int val =pHead.val;
+                while(pHead.next.val ==val){
+                    pHead.next = pHead.next.next;
+                }
+                pre.next = pHead.next;
+            }
+            else {
+                pHead =pHead.next;
+                pre =pre.next;
+            }
+            
+        }
+        return ans.next;
+    }
+}
+
+//题目：正则表达式匹配：
+
+//错误类型：数组越界
+public class Main {
+    public boolean match(char[] str, char[] pattern){
+        if (str == null || pattern == null) return false;
+        int length1 = str.length;
+        int length2 =pattern.length;
+        return matchCore(str,pattern,0,0,length1,length2);
+    }
+    public boolean matchCore(char[] str,char[]pattern ,int s ,int p, int length1,int length2){
+        if(s == length1 && p==length2) return true;
+        if(s == length1 && p!=length2){
+            while(p!= length2){
+                if(pattern[p] =='.') return true;
+                else if(pattern[p+1]=='*') p+=2;
+                else return false;
+            }
+            return true;
+        }
+        if(s!=length1 && p==length2) return false;
+        if(p+1==length2){
+            if(str[s]==pattern[p]||pattern[p]=='.')
+                return matchCore(str, pattern,s+1,p+1, length1, length2);
+            else {
+                return false;
+            }
+        }
+        if(pattern[p+1]!='*'){
+            if(pattern[p] =='.' || str[s] == pattern[p]) return matchCore(str,pattern,s+1,p+1,length1,length2);
+            else return false;
+        }
+        else{
+            if(str[s] != pattern[p]) return matchCore(str,pattern,s+1,p+2,length1,length2);
+            else return matchCore(str,pattern,s+1,p,length1,length2) || matchCore(str,pattern,s+1,p+2,length1,length2);
+        }
+    }
+}
