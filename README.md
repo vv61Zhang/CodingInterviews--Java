@@ -29,7 +29,7 @@
 |21|数组|调整数组顺序使奇数位于偶数前面|[21_reOrderArray](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/21_reOrderArray.java)|
 |22|数组|链表中倒数第k个节点|[22_FindKthToTail](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/22_FindKthToTail.java)|
 |23|数组|链表中环的入口结点|TBA|
-|24|数组|反转链表|TBA|
+|24|数组|反转链表|[24_ReverseList](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/24_ReverseList.java)|
 |25|数组|合并两个排序的链表|TBA|
 |26|数组|树的子结构|TBA|
 |27|数组|二叉树的镜像|TBA|
