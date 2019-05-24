@@ -26,7 +26,7 @@
 |18b|链表|删除链表中重复的节点|TBA|
 |19|数组|正则表达式匹配|TBA|
 |20|数组|表示数值的字符串|TBA|
-|21|数组|调整数组顺序使奇数位于偶数前面|[21_reOrderArray]https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/21_reOrderArray.java|
+|21|数组|调整数组顺序使奇数位于偶数前面|[21_reOrderArray](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/21_reOrderArray.java)|
 |22|数组|链表中倒数第k个节点|TBA|
 |23|数组|链表中环的入口结点|TBA|
 |24|数组|反转链表|TBA|
