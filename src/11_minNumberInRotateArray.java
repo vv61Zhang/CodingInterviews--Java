@@ -44,9 +44,12 @@ public class Solution {
             mid = (p2+p1)/2;
             if(array[p1]<array[mid]) p1=mid;
             else if(array[mid]<array[p2]) p2=mid;
+            else break;//或者2311111这种 array[p1]>array[p2] && array[mid]=array[p2]直接break；
         }
         return array[p2];
     }
+}
+
 }
 
 //solution3
