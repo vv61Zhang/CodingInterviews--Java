@@ -23,7 +23,7 @@
 |16|数组|数值的整数次方|[16_Power](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/16_Power.java)|
 |17|数组|打印从1到最大的n位数|TBA|
 |18a|数组|删除链表的节点|[18a_deleteNode](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/18a_deleteNode.java)|
-|18b|链表|删除链表中重复的节点|TBA|
+|18b|链表|删除链表中重复的节点|[18b_deleteDuplication](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/18b_deleteDuplication.java)|
 |19|数组|正则表达式匹配|TBA|
 |20|数组|表示数值的字符串|TBA|
 |21|数组|调整数组顺序使奇数位于偶数前面|[21_reOrderArray](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/21_reOrderArray.java)|
