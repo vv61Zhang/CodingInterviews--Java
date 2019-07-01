@@ -31,7 +31,7 @@
 |23|数组|链表中环的入口结点|TBA|
 |24|数组|反转链表|[24_ReverseList](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/24_ReverseList.java)|
 |25|数组|合并两个排序的链表|[25_Merge](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/25_Merge.java)|
-|26|数组|树的子结构|TBA|
+|26|数组|树的子结构|[26_HasSubtree](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/26_HasSubtree.java)|
 |27|数组|二叉树的镜像|TBA|
 |28|数组|对称的二叉树|TBA|
 |29|数组|顺时针打印矩阵|TBA|
