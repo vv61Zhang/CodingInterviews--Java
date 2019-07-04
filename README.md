@@ -36,7 +36,7 @@
 |28|数组|对称的二叉树|TBA|
 |29|数组|顺时针打印矩阵|[29_printMatrix.java](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/29_printMatrix.java)|
 |30|。。|包含min的最小值|[30_stackWithMin](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/30_stackWithMin.java)|
-|31|数组|栈的压入、弹出序列|[31_isPopOrder.java](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/31_isPopOrder.java)|
+|31|数组|栈的压入、弹出序列|[31_isPopOrder.java](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/31_IsPopOrder.java)|
 |32|数组|二叉搜索树的后序遍历序列|TBA|
 |34|数组|二叉树中和为某一值的路径|TBA|
 |35|数组|数复杂链表的复制|TBA|
