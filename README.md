@@ -34,7 +34,7 @@
 |26|数组|树的子结构|[26_HasSubtree](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/26_HasSubtree.java)|
 |27|数组|二叉树的镜像|[27_Mirror.java](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/27_Mirror.java)|
 |28|数组|对称的二叉树|TBA|
-|29|数组|顺时针打印矩阵|TBA|
+|29|数组|顺时针打印矩阵|[29_printMatrix.java](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/29_printMatrix.java)|
 |30|数组|栈的压入、弹出序列|TBA|
 |32|数组|二叉搜索树的后序遍历序列|TBA|
 |34|数组|二叉树中和为某一值的路径|TBA|
