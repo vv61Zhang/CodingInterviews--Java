@@ -32,12 +32,13 @@
 |24|数组|反转链表|[24_ReverseList](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/24_ReverseList.java)|
 |25|数组|合并两个排序的链表|[25_Merge](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/25_Merge.java)|
 |26|数组|树的子结构|[26_HasSubtree](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/26_HasSubtree.java)|
-|27|数组|二叉树的镜像|[27_Mirror.java](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/27_Mirror.java)|
+|27|数组|二叉树的镜像|[27_Mirror](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/27_Mirror.java)|
 |28|数组|对称的二叉树|TBA|
-|29|数组|顺时针打印矩阵|[29_printMatrix.java](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/29_printMatrix.java)|
+|29|数组|顺时针打印矩阵|[29_printMatrix](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/29_printMatrix.java)|
 |30|。。|包含min的最小值|[30_stackWithMin](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/30_stackWithMin.java)|
-|31|数组|栈的压入、弹出序列|[31_isPopOrder.java](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/31_IsPopOrder.java)|
-|32|数组|二叉搜索树的后序遍历序列|TBA|
+|31|数组|栈的压入、弹出序列|[31_isPopOrder](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/31_IsPopOrder.java)|
+|32a|..|从上到下打印二叉树|[32a_PrintFromTopToBottom](https://github.com/vv61Zhang/CodingInterviews--Java/blob/master/src/32a_PrintFromTopToBottom.java)|
+|33|数组|二叉搜索树的后序遍历序列|TBA|
 |34|数组|二叉树中和为某一值的路径|TBA|
 |35|数组|数复杂链表的复制|TBA|
 |36|数组|二叉搜索树与双向链表|TBA|
